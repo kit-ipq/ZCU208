@@ -1,10 +1,10 @@
-## PYNQ Board Repository for the Zynq UltraScale+ RFSoC ZCU111
+## PYNQ Board Repository for the Zynq UltraScale+ RFSoC ZCU208
 This repository contains source files and instructions for building PYNQ to run on the 
-[ZCU111 board](https://www.xilinx.com/products/boards-and-kits/zcu111.html).
+[ZCU208 board](https://www.xilinx.com/products/boards-and-kits/zcu208.html).
 
-### ZCU111 Board Files
+### ZCU208 Board Files
 
-Clone this repo, download the ZCU111 petalinux BSP from [here](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/embedded-design-tools.html), and place it in the ZCU111 folder.
+Clone this repo, download the ZCU208 petalinux BSP from [here](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/embedded-design-tools.html), and place it in the ZCU208 folder.
 
 You can then build the image from the PYNQ repo's sdbuild folder with
 ```
